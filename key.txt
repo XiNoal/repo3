@@ -1,0 +1,2 @@
+生成的密钥在C:\Users\hasee\.ssh中
+di_rsa为私key   .pub为公key
